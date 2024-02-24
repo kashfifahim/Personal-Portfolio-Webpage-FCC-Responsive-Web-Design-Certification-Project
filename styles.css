@@ -1,0 +1,14 @@
+@media only screen and (max-width: 400px) {
+    #main-doc {
+        margin-left: -10px;
+    }
+}
+
+nav {
+    position: fixed;
+    display: block;
+    flex-direction: row;
+    justify-content: space-around;
+    font-weight: 400;
+    border: 1px solid black;
+}
